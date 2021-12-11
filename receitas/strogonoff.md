@@ -1,1 +1,1 @@
-<h1> Strogonofe de Frango <h1>
+<h1> Strogonoff de Frango <h1>
